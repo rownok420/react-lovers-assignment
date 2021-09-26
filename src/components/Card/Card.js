@@ -26,7 +26,7 @@ const Card = (props) => {
                     </div>
                 </div>
                 <div className='card-footer text-center py-3'>
-                    <button className='btn btn-success px-3' onClick={()=>props.handelAddToCart(props.card)}><i className="fas fa-cart-plus me-2"></i>Add to cart</button>
+                    <button className='btn btn-success px-3' onClick={()=>props.handelAddToCart(props.card)}><i className="fas fa-cart-plus me-2"></i>Hire Developer</button>
                 </div>
             </div>
         </div>

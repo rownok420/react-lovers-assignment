@@ -35,6 +35,9 @@ https://react-lover-rownok420.netlify.app/
 
 ## About Project
 
-- This is a simple react app
-- This app contains different <strong>Developer</strong> information
-- You can select developer and get estimate budget for hiring them
+- This is a simple react website.
+- I've used react to develop the UI of this site.
+- This app contains different <strong>Developer</strong> information.
+- You can select developer and get estimate budget for hiring them.
+- I used font-awesome for icons. And also used bootstrap for responsiveness and faster design.
+- I created a json file, placed it locally and loaded data from it to show in the UI
