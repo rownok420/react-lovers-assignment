@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Bella Gilchriest",
-      "gender": "Female",
+      "designation": "React developer",
       "salary": 1149,
       "email": "bgilchriest0@gr.com",
       "phone": "679-500-0997",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Denise Crichley",
-      "gender": "Male",
+      "designation": "Full stack developer",
       "salary": 1256,
       "email": "dcrichley1@ep.com",
       "phone": "941-414-8043",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "name": "Vachel Riditch",
-      "gender": "Female",
+      "designation": "Front end developer",
       "salary": 1161,
       "email": "vriditch2@big.jp",
       "phone": "982-464-6478",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "name": "Carmela Managh",
-      "gender": "Female",
+      "designation": "React developer",
       "salary": 1792,
       "email": "cmanagh3@sal.com",
       "phone": "846-679-6199",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "name": "Lavinie Mival",
-      "gender": "Male",
+      "designation": "Front end developer",
       "salary": 1620,
       "email": "lmival4@stum.com",
       "phone": "232-828-4070",
@@ -52,7 +52,7 @@
     {
       "id": 6,
       "name": "Beitris Dumbare",
-      "gender": "Male",
+      "designation": "Full stack developer",
       "salary": 1771,
       "email": "bdumbare5@ps.edu",
       "phone": "230-372-7251",
@@ -62,7 +62,7 @@
     {
       "id": 7,
       "name": "Evita Bukowski",
-      "gender": "Male",
+      "designation": "Front end developer",
       "salary": 700,
       "email": "ebukowski6@h.gov",
       "phone": "179-720-3590",
@@ -72,7 +72,7 @@
     {
       "id": 8,
       "name": "Wylie Bianco",
-      "gender": "Male",
+      "designation": "Full stack developer",
       "salary": 1191,
       "email": "wbianco7@uni.org",
       "phone": "229-495-9608",
@@ -82,7 +82,7 @@
     {
       "id": 9,
       "name": "Collen Dionisetto",
-      "gender": "Male",
+      "designation": "React developer",
       "salary": 1486,
       "email": "cdionisetto8@i.com",
       "phone": "373-483-1250",
@@ -92,7 +92,7 @@
     {
       "id": 10,
       "name": "Hedy Breit",
-      "gender": "Male",
+      "designation": "Full stack developer",
       "salary": 1973,
       "email": "hbreit9@the.com",
       "phone": "853-351-2407",
@@ -102,7 +102,7 @@
     {
       "id": 11,
       "name": "Knox Kelner",
-      "gender": "Male",
+      "designation": "Front end developer",
       "salary": 742,
       "email": "kkelnera@cn.com",
       "phone": "416-177-9724",
@@ -112,7 +112,7 @@
     {
       "id": 12,
       "name": "Francesca Bullivent",
-      "gender": "Male",
+      "designation": "Full stack developer",
       "salary": 1178,
       "email": "fbulliventb@ut.edu",
       "phone": "857-420-0815",
@@ -122,7 +122,7 @@
     {
       "id": 13,
       "name": "Bear Del Checolo",
-      "gender": "Female",
+      "designation": "React developer",
       "salary": 1171,
       "email": "bdelc@chrono.com",
       "phone": "720-786-5323",
@@ -132,7 +132,7 @@
     {
       "id": 14,
       "name": "Goober Giff",
-      "gender": "Female",
+      "designation": "Full stack developer",
       "salary": 1315,
       "email": "ggiffd@hhs.gov",
       "phone": "760-860-3370",
@@ -142,7 +142,7 @@
     {
       "id": 15,
       "name": "Georgena Hadcroft",
-      "gender": "Male",
+      "designation": "React developer",
       "salary": 765,
       "email": "ghadcrofte@ama.jp",
       "phone": "537-220-4126",
@@ -152,7 +152,7 @@
     {
       "id": 16,
       "name": "Bridie McNee",
-      "gender": "Male",
+      "designation": "Full stack developer",
       "salary": 762,
       "email": "bmcneef@yell.com",
       "phone": "951-190-0224",
@@ -162,7 +162,7 @@
     {
       "id": 17,
       "name": "Allison MacNeilley",
-      "gender": "Male",
+      "designation": "React developer",
       "salary": 1217,
       "email": "amacneilleyg@pri.com",
       "phone": "489-172-7937",
