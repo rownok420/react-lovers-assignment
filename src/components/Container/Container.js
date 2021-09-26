@@ -21,11 +21,11 @@ const Container = () => {
     }
 
     return (
-        <div className='container'>
+        <div className='container-fluid'>
             <div className='row'>
                 {/* card section here */}
                 <div className="col-md-9">
-                    <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                    <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
                         {
                             card.map(card => <Card key={card.id} handelAddToCart={handelAddToCart} card={card} />)
                         }

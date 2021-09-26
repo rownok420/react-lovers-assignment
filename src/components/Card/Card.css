@@ -4,12 +4,39 @@
 }
 
 .card-image-contaienr{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin: 10px auto;
     overflow: hidden;
 }
 
 .card-image{
-    transition: .4s;
+    height: 100%;
+    width: 100%;
+    transition: 0.25s;
 }
 .card:hover .card-image{
-    transform: scale(1.1);
+    transform: scale(1.15);
 }
+
+
+/* .devImgContainer {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin: 10px auto;
+    overflow: hidden;
+  }
+  
+  .devCard img {
+    height: 100%;
+    width: 100%;
+    transition: 0.25s;
+  }
+  
+  .devCard img:hover {
+    transform: scale(1.15);
+  } */

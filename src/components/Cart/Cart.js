@@ -13,7 +13,7 @@ const Cart = (props) => {
 
 
     return (
-        <div className='text-center'>
+        <div className='text-center border border-success rounded py-5'>
             <div className='text-success mb-4'>
                 <h4 className='mb-3'><i className="fas fa-user-secret me-2"></i>Devlopers added: {cart.length}</h4>
                 <h4><i className="fas fa-dollar-sign me-2"></i>Total cost: ${totalSalary}</h4>
@@ -21,7 +21,7 @@ const Cart = (props) => {
             <div>
                 
                 {
-                    cart.map(details => <Details key={details.id} details={details} />)
+                    cart.map(details => <Details key={details.id + Math.random() + " "} details={details} />)
                 }
                 <div className='text-center'>
                     <button className='btn btn-success px-4'><i className="fas fa-angle-double-right me-2"></i>Buy now</button>
