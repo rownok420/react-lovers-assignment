@@ -4,11 +4,11 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-             <header>
+            <header>
                 <section className="container">
                     <nav className="navbar navbar-expand-lg navbar-light ">
                         <div className="container-fluid">
-                            <a className="navbar-brand fs-3 text-success" href="/name"> <i class="bi bi-laptop"></i> React Lover's</a>
+                            <a className="navbar-brand fs-2 fw-bold text-success" href="/name"> <i className="bi bi-laptop"></i> React Lover's</a>
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                 <span className="navbar-toggler-icon"></span>
                             </button>
@@ -24,11 +24,18 @@ const Header = () => {
                                         <a className="nav-link text-success" href="/others">Others</a>
                                     </li>
                                 </ul>
-                        </div>
+                            </div>
                         </div>
                     </nav>
                 </section>
             </header>
+            <section className='container'>
+                    <div className='text-center my-4'>
+                        <h1 className='text-success fw-bold'>React Lover's: Hire world class devlopers</h1>
+                        <h5>We are stunning team to bootsup your online business</h5>
+                        <h2 className='fw-bold'>Total Budeget: $200 Million</h2>
+                    </div>
+            </section>
         </div>
     );
 };
