@@ -1,11 +1,12 @@
 import React from 'react';
+import './Details.css'
 
 const Details = (props) => {
     console.log(props.details)
     const{details} = props
     return (
         <div>
-            <div className="card mb-3 h-50 w-100">
+            <div className="card mb-3 h-50 w-100 card-style">
                 <div className="row g-0">
                     <div className="col-md-4">
                         <img src={details.images} className="img-fluid rounded-start" alt="..."/>

@@ -24,7 +24,7 @@ const Cart = (props) => {
                     cart.map(details => <Details key={details.id} details={details} />)
                 }
                 <div className='text-center'>
-                    <button className='btn btn-success px-4'>Buy now</button>
+                    <button className='btn btn-success px-4'><i className="fas fa-angle-double-right me-2"></i>Buy now</button>
                 </div>
             </div>
         </div>
