@@ -13,9 +13,9 @@ const Cart = (props) => {
 
 
     return (
-        <div>
+        <div className='text-center'>
             <div className='text-success mb-4'>
-                <h4><i className="fas fa-user-secret me-2"></i>Devlopers added: {cart.length}</h4>
+                <h4 className='mb-3'><i className="fas fa-user-secret me-2"></i>Devlopers added: {cart.length}</h4>
                 <h4><i className="fas fa-dollar-sign me-2"></i>Total cost: ${totalSalary}</h4>
             </div>
             <div>
